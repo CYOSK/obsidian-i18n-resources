@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "xFaht9lV2JNeVye1TPOZ2BhTszYP0n7k",
+        "plugin": "calendar",
+        "language": "zh-cn",
+        "version": "1.5.10",
+        "supported_versions": "1.5.10",
+        "title": "Calendar",
+        "description": "Calendar 简体中文汉化",
+        "hash": "182b261b182b261b182b261b182b261b",
+        "created_at": "2026-09-10T13:54:08.861Z",
+        "updated_at": "2026-09-10T13:54:08.861Z",
+        "type": "plugin"
+    }
+]
